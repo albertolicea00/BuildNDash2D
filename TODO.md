@@ -4,7 +4,7 @@ Living checklist. Items are checked (`[x]`) when done — never deleted.
 
 ## Project setup
 
-- [x] Godot 4.x project (`project.godot`, GL Compatibility renderer for Web + Android)
+- [x] Godot 4.x project (`project.godot`, GL Compatibility renderer for Web + Android + iOS)
 - [x] Entry scene `scenes/main.tscn` + code-built UI
 - [x] `Net` autoload (`scripts/net.gd`) — LOCAL / HOST / CLIENT, port 7803
 - [x] Repo files: README, LICENSE, EULA, PRIVACY_POLICY, CONTRIBUTING, CODE_OF_CONDUCT, SECURITY, AGENTS.md, TODO.md, .github templates, .gitignore
@@ -42,7 +42,7 @@ Living checklist. Items are checked (`[x]`) when done — never deleted.
 - [ ] Pause menu
 - [ ] High score persistence (local save)
 - [ ] Web export preset + test in browser
-- [ ] Android export preset + test on device
+- [ ] Android + iOS export presets + test on device
 - [ ] App icon final art + splash screen
 
 ## Wishlist

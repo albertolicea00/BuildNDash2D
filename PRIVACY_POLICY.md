@@ -25,7 +25,7 @@ Please note that future versions of the Software may introduce online multiplaye
 
 ## 4. Device Permissions
 
-Depending on the platform (such as Android or Web), the Software may request certain permissions to function correctly:
+Depending on the platform (such as Android, iOS, or Web), the Software may request certain permissions to function correctly:
 - **Local Network Access:** Required to discover and connect to other devices on the same Wi-Fi network for LAN multiplayer.
 - **No Storage Access for Tracking:** Local storage is used strictly on your device to save game preferences or local scores (if applicable).
 

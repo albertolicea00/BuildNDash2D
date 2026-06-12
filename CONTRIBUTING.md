@@ -13,7 +13,7 @@ Thanks for your interest in contributing! Please follow these guidelines.
 
 1. Install [Godot 4.x](https://godotengine.org/download).
 2. Open this folder as a Godot project in Godot.
-3. Make sure the project still exports to Web and Android after your changes.
+3. Make sure the project still exports to Web, Android, and iOS after your changes.
 
 ## Code style (GDScript)
 
