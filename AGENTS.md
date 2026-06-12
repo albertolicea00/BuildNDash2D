@@ -25,7 +25,7 @@ Advanced 2D asymmetric co-op runner, Geometry Dash inspired, featuring:
 
 ## Technical requirements
 - Godot 4.x (GDScript)
-- Web + Android export
+- Web (HTML5) + Android + iOS export
 - 2D runner physics system (auto-run, jump, slide, trampolines)
 - EDM-style visual effects (glow, particles, beat pulses)
 - Builder with advanced tools
