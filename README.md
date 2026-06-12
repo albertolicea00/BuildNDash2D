@@ -1,8 +1,8 @@
-# ⤴️ BuildNDash2D
+# ⚡ BuildNDash2D
 
 [![Godot Engine](https://img.shields.io/badge/Godot-4.x-blue?logo=godot-engine&logoColor=white)](https://godotengine.org)
 [![License: Source-Available](https://img.shields.io/badge/License-Source--Available-red.svg)](LICENSE)
-[![Platform: Web | Android](https://img.shields.io/badge/Platform-Web%20%7C%20Android-orange)](https://godotengine.org)
+[![Platform: Web | Android | iOS](https://img.shields.io/badge/Platform-Web%20%7C%20Android%20%7C%20iOS-orange)](https://godotengine.org)
 [![Genre: Asymmetric Co-op](https://img.shields.io/badge/Genre-Asymmetric%20Co--op-purple)](#asymmetric-co-op-roles)
 
 An advanced 2D asymmetric co-op runner featuring EDM-style visual effects, long levels, power-ups, and trampolines. The **Runner** dashes automatically and must jump or slide to survive, while the **Builder Pro** uses a floating cursor to place obstacles, platforms, and triggers in real-time.
@@ -33,7 +33,7 @@ You can play BuildNDash2D in three different ways:
 *   **Game Engine:** [Godot 4.x](https://godotengine.org/)
 *   **Scripting Language:** GDScript (fully typed, clean code architecture)
 *   **Networking Protocol:** ENet via Godot's High-Level Multiplayer API
-*   **Export Profiles:** HTML5 (WebGL) for web browser play & Android APK/AAB for mobile devices
+*   **Export Profiles:** HTML5 (WebGL) for web browser play & Android (APK/AAB) + iOS (IPA) for mobile devices
 *   **Assets:** CC0 (Public Domain) or original custom assets
 
 ### Feature Specs:
@@ -54,9 +54,9 @@ You can play BuildNDash2D in three different ways:
 4.  Run the project by pressing `F5` or clicking the **Play** button.
 
 ### Building / Exporting
-To export to **Web** or **Android**:
+To export to **Web**, **Android**, or **iOS**:
 1.  Go to `Project` -> `Export...` in the Godot Editor.
-2.  Select your target profile (**Web** or **Android**).
+2.  Select your target profile (**Web**, **Android**, or **iOS**).
 3.  Set up the export paths and click **Export Project**.
 
 ---

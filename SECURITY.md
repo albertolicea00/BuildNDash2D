@@ -25,6 +25,6 @@ Please include:
 Particularly relevant areas for BuildNDash2D:
 
 - **LAN / Local Server networking:** input validation on the authoritative server, malformed packets, spoofed peers
-- **Exported builds:** Web (HTML5/WebGL) and Android export configurations
+- **Exported builds:** Web (HTML5/WebGL), Android, and iOS export configurations
 
 You can expect an initial response within a reasonable time frame. Thank you for helping keep the project safe.

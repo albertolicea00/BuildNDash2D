@@ -12,7 +12,7 @@ assignees: ''
 
 ## Platform
 
-<!-- Web (browser + version) / Android (device + OS version) / Godot editor -->
+<!-- Web (browser + version) / Android (device + OS version) / iOS (device + iOS version) / Godot editor -->
 
 ## Description
 

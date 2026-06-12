@@ -27,4 +27,4 @@
 - [ ] Comments explain *why*, not just *what*
 - [ ] No copyrighted assets (original or CC0 only)
 - [ ] Follows the `AGENTS.md` spec
-- [ ] Web + Android exports still work (if applicable)
+- [ ] Web + Android + iOS exports still work (if applicable)
