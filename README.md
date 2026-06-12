@@ -1,4 +1,4 @@
-# ⚡ BuildNDash2D
+# ⤴️ BuildNDash2D
 
 [![Godot Engine](https://img.shields.io/badge/Godot-4.x-blue?logo=godot-engine&logoColor=white)](https://godotengine.org)
 [![License: Source-Available](https://img.shields.io/badge/License-Source--Available-red.svg)](LICENSE)

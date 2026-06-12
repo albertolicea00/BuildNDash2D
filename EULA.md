@@ -37,3 +37,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## 6. Limitation of Liability
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+## 7. Future Online Services (Wishlist)
+
+The Software currently operates strictly offline and via local network (LAN / Local Server). If future updates introduce online multiplayer, dedicated matchmaking servers, or relay services:
+- The Author reserves the right to modify or discontinue such online services at any time.
+- Use of such services will be subject to any additional terms of service and updated privacy policies.
+- You may not use online matchmaking services in any way that disrupts the experience for other players (such as cheating, hacking, or using modified game clients).
