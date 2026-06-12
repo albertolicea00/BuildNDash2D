@@ -31,6 +31,7 @@ Living checklist. Items are checked (`[x]`) when done — never deleted.
 
 ## Polish / pending
 
+- [x] Automated smoke playtest (`tests/playtest.tscn`): play → die → game over → restart loop verified headless
 - [ ] Manual playtest: balance speeds, cooldown, object sizes
 - [ ] LAN playtest on two devices
 - [ ] Camera triggers (zoom/shake events from spec) — currently only beat pulse
