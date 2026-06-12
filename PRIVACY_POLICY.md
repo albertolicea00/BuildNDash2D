@@ -17,20 +17,26 @@ For multiplayer modes (Offline LAN / Local Server):
 - Multiplayer connections are established directly between players' devices over local IP addresses.
 - No gameplay data, IP addresses, or connection parameters are transmitted to the Author or any external system. All network traffic remains entirely within your local network (LAN).
 
-## 3. Device Permissions
+## 3. Future Online Services (Wishlist)
+
+Please note that future versions of the Software may introduce online multiplayer services (such as dedicated headless servers and matchmaking/relay). If and when these online features are implemented:
+- A revised Privacy Policy will be provided to govern the collection of necessary data (e.g., matchmaking tokens, connection stats, or anonymous player IDs).
+- No personal data or tracking will be introduced without clear notice and updated privacy terms.
+
+## 4. Device Permissions
 
 Depending on the platform (such as Android or Web), the Software may request certain permissions to function correctly:
 - **Local Network Access:** Required to discover and connect to other devices on the same Wi-Fi network for LAN multiplayer.
 - **No Storage Access for Tracking:** Local storage is used strictly on your device to save game preferences or local scores (if applicable).
 
-## 4. Children's Privacy
+## 5. Children's Privacy
 
 Since the Software does not collect any personal data, it is fully compliant with children's privacy regulations, including the Children's Online Privacy Protection Act (COPPA) and General Data Protection Regulation (GDPR).
 
-## 5. Changes to This Privacy Policy
+## 6. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. Any changes will be posted directly within the repository.
 
-## 6. Contact Us
+## 7. Contact Us
 
 If you have any questions about this Privacy Policy, you can reach out through the project's repository.
